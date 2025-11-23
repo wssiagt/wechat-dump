@@ -9,3 +9,6 @@ resource
 2020*
 avatar.index
 emoji.cache
+
+# Password file
+decryption/password.txt

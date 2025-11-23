@@ -1,9 +1,10 @@
 pyquery
-javaobj-py3>=0.4.1
+javaobj-py3
 pycryptodome
-pillow>=7.0
+pillow
 requests
-pysqlcipher3>=1.0.3
+# pysqlcipher3==1.2.0
+rotki-pysqlcipher3==2024.10.1
 csscompressor
 numpy
 ipython
